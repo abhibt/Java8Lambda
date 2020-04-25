@@ -12,6 +12,9 @@ interface MyFunctionalInterface2 {
 
 /*
 Trying out lambda functions from Java 8
+Lambda is basically a macro.
+In the actual function, which is main in this case,
+you have to define the characteristics of the macro.
 */
 public class Main {
 
