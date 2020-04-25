@@ -9,6 +9,10 @@ interface MyFunctionalInterface {
 interface MyFunctionalInterface2 {
     public int Increment(int a);
 }
+
+/*
+Trying out lambda functions from Java 8
+*/
 public class Main {
 
    public static void main(String args[]) {
